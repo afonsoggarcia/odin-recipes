@@ -1,0 +1,14 @@
+div {
+  color: white;
+  background-color: red;
+  font-size: 32px;
+  font-style: bold;
+  text-align: center;
+}
+
+.inverted {
+  font-family: 'Lucida Sans', Verdana, sans-serif;
+  color: #fff;
+  font-size: 28px;
+  background-color: black;
+}
